@@ -1,0 +1,22 @@
+.c-cards {
+    background: #000;
+}
+
+.c-cards .c-cards_inner{
+
+}
+
+.c-cards {
+    &_inner{
+
+    }
+
+    &_card{
+        color: white;
+    }
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
